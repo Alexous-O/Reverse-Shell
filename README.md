@@ -38,4 +38,4 @@ Now you have access to the victim's machine via CMD as if you were physically in
    - It's up to you to have fun, but no nonsense !
 
 ## Author 👨‍💻
-Le projet a été créé par moi-même avec de la documentation et l'aide de la vidéo de [ActiveXSploit](https://www.youtube.com/@ActiveXSploit).
+The project was created by myself with documentation and video help from [ActiveXSploit](https://www.youtube.com/@ActiveXSploit).
