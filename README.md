@@ -31,7 +31,7 @@ Now you have access to the victim's machine via CMD as if you were physically in
 1. Clone the GitHub repository to your local machine <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="15" alt="git logo" />:
 
     ```
-    git clone https://github.com/Alexous-O/Reverse-Shell
+    git clone https://github.com/Alexous-O/Reverse-Shell.git
     ```
     
 2. Then launch the project
